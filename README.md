@@ -10,7 +10,6 @@
 
 ### 📊 GitHub Stats  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadrendy16&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadrendy16&theme=transparent&hide_border=false&card_width=400)](https://git.io/streak-stats)  
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
