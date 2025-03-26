@@ -7,6 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Let's_connect-on-blue)
 [![Linkedin: yourlinkedin](https://img.shields.io/badge/-Your_Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourgithub&theme=transparent&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
