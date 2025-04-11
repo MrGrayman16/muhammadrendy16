@@ -6,7 +6,7 @@
 - 🔗 Visit my [portfolio website](#) or check out my [online CV](#) for more details. Feel free to reach out for potential collaborations!
 
 ![Static Badge](https://img.shields.io/badge/Let's_connect-on-blue)
-[![Linkedin: MuhammadRendy'S](https://img.shields.io/badge/-Your_Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rendy-14839b35b/)](https://www.linkedin.com/in/muhammad-rendy-14839b35b/)
+[![Linkedin: MuhammadRendy'S](https://img.shields.io/badge/-Muhammad Rendy ' S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rendy-14839b35b/)](https://www.linkedin.com/in/muhammad-rendy-14839b35b/)
 
 ### 📊 GitHub Stats  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadrendy16&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  
