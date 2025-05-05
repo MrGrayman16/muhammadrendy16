@@ -9,7 +9,7 @@
 [![Linkedin: your-linkedin](https://img.shields.io/badge/-MuhammadRendy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rendy-14839b35b/)](https://www.linkedin.com/in/muhammad-rendy-14839b35b/)
 
 ### 📊 GitHub Stats  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadrendy16&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGrayman16&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
